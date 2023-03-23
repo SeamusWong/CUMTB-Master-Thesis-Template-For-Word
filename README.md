@@ -1,5 +1,7 @@
 # CUMTB-Master-s-Thesis-Template-For-Word
+
 中国矿业大学（北京）学硕学位论文Word智能大模板（非文科）
+
 # 第一件事：
 
 ## 01前言
@@ -120,8 +122,14 @@
 ## 05目录与图表清单
 
 - 三个目录的格式以已经内置并配置域，但是由于Word限制并不会实时更新，编辑之后要手动点击一下更新
+
 - 更新目录：点击目录中的任意位置或选择目录，Word中点击引用->更新目录->更新整个目录，Word就自动识别了
+
+  [<img src="https://i.postimg.cc/cHcv6MZb/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/zbVzchyC)
+
 - 更新图表清单：点击清单中的任意位置或选择目录，Word中点击引用->（题注选项卡）更新表格->更新整个目录，Word就自动识别了
+
+  [<img src="https://i.postimg.cc/Y0htk1Sg/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/fSnGfSmT)
 
 ## 06摘要、附录简介与致谢
 
