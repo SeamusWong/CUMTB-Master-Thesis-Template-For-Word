@@ -1,4 +1,4 @@
-# CUMTB-Academic-Master-s-Thesis-Template
+# CUMTB-Master-s-Thesis-Template-For-Word
 中国矿业大学（北京）学硕学位论文Word智能大模板（非文科）
 # 第一件事：
 
