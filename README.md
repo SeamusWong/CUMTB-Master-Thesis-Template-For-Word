@@ -60,7 +60,7 @@
 
 ### 检查之前先打开显示编辑标记开关，检查完可以关闭：
 
-[<img src="https://i.postimg.cc/BZK0dWqt/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/Rq4yHDJz)
+[<img src="https://i.postimg.cc/BZK0dWqt/image.png" alt="image.png" style="zoom:200%;" />]
 
 
 
@@ -68,7 +68,7 @@
 
 文档预置了7个大章节，编辑之前先把大章节调整一致，如果你计划写六章，那就在删除第七章时连带删除章节对应的分节符
 
-[<img src="https://i.postimg.cc/2SQ2D4Cp/2023-03-22-230220.png" alt="2023-03-22-230220.png" style="zoom:200%;" />](https://postimg.cc/5Xtw5QHp)
+[<img src="https://i.postimg.cc/2SQ2D4Cp/2023-03-22-230220.png" alt="2023-03-22-230220.png" style="zoom:200%;" />]
 
 ### 基础格式检查：
 
@@ -82,7 +82,7 @@
 
 - 点击对应的样式
 
-  [![image.png](https://i.postimg.cc/7hHK5kBm/image.png)](https://postimg.cc/bD5x5Kft)
+  [![image.png](https://i.postimg.cc/7hHK5kBm/image.png)]
 
   
 
@@ -98,7 +98,7 @@
 
 - 图抬头为：插入图片后右键->插入题注，标签选择“图”或者“Fig.”（分别对应中英文图抬头），位置为“所选题目下方”，插入标题后格式一律选择 10图抬头
 
-  [<img src="https://i.postimg.cc/xdsdfsnh/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/qt3rQxtx)
+  [<img src="https://i.postimg.cc/xdsdfsnh/image.png" alt="image.png" style="zoom:200%;" />]
 
 - 如果图片有说明性注解，格式一律选择 11图注
 
@@ -106,7 +106,7 @@
 
 - 文档中以内置好三线表格式并默认，所以直接插入表格就是标准三线表，如果不是，在表设计中选择01三线表，左侧表格样式中只勾选“标题行”
 
-  [<img src="https://i.postimg.cc/ZnBQ35vd/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/hQnMRgrD)
+  [<img src="https://i.postimg.cc/ZnBQ35vd/image.png" alt="image.png" style="zoom:200%;" />]
 
 - 表抬头为：插入表格后右键->插入题注，标签选择“表”或者“Table”（分别对应中英文表抬头），位置为“所选题目上方”，插入标题后格式一律选择 07表抬头
 
@@ -126,11 +126,11 @@
 
 - 更新目录：点击目录中的任意位置或选择目录，Word中点击引用->更新目录->更新整个目录，Word就自动识别了
 
-  [<img src="https://i.postimg.cc/cHcv6MZb/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/zbVzchyC)
+  [<img src="https://i.postimg.cc/cHcv6MZb/image.png" alt="image.png" style="zoom:200%;" />]
 
 - 更新图表清单：点击清单中的任意位置或选择目录，Word中点击引用->（题注选项卡）更新表格->更新整个目录，Word就自动识别了
 
-  [<img src="https://i.postimg.cc/Y0htk1Sg/image.png" alt="image.png" style="zoom:200%;" />](https://postimg.cc/fSnGfSmT)
+  [<img src="https://i.postimg.cc/Y0htk1Sg/image.png" alt="image.png" style="zoom:200%;" />]
 
 ## 06摘要、附录简介与致谢
 
