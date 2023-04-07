@@ -70,7 +70,7 @@
 
 文档预置了7个大章节，编辑之前先把大章节调整一致，如果你计划写六章，那就在删除第七章时连带删除章节对应的分节符
 
-[<img src="https://i.postimg.cc/2SQ2D4Cp/2023-03-22-230220.png" style="zoom:200%;" />](https://postimg.cc/5Xtw5QHp)
+<img src="https://i.postimg.cc/2SQ2D4Cp/2023-03-22-230220.png" style="zoom:200%;" />
 
 ### 基础格式检查：
 
