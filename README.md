@@ -98,7 +98,7 @@
 
 - 图抬头为：插入图片后右键->插入题注，标签选择“图”或者“Fig.”（分别对应中英文图抬头），位置为“所选题目下方”，插入标题后格式一律选择 10图抬头**【对于没有“图”或者“Fig.”的情况，请看下文“其他说明”】**
 
-  <img src="https://i.postimg.cc/xdsdfsnh/image.png" alt="image.png" style="zoom: 150%;" />
+  <img src="https://i.postimg.cc/xdsdfsnh/image.png" alt="image.png" style="zoom:150%;" />
 
 - 如果图片有说明性注解，格式一律选择 11图注
 
